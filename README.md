@@ -1,4 +1,4 @@
 # test
 My test repo2
 
-[Fordham](https://www.fordham.edu)
+[My Presentation](https://geoffreykwan.github.io/test)
